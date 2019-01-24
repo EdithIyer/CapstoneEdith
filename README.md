@@ -5,7 +5,7 @@
 # Problem Statement
 
 
-A question that I tend to get asked a lot takes on the form "I've got X plans with Y person(or people) they want to go out to eat in Z neighborhood, do you have any recommendations?". I think I get asked this is because I love to eat, I worked in the hospitality industry for a long time and my husband builds and runs awesome restaurant bars for a living. The plans can vary from a simple happy hour to a multi course dinner and person can vary from family member to a rarely seen friend from high school to a professional acquaintance to a first date. The neighborhood tends to be somewhere I've maybe been to once. And I do not take very good notes. I always want to be able to provide insight because I want everyone to have the best eating and/or drinking experience possible. However, when it comes down to it, my brain is too full of other things these days to actually remember that spot in Jackson Heights with the best Vietnamese food I went with my father-in-law's friends four years ago. What I do remember is a cozy place in Bushwick with friendly staff, no-frills yet creative dishes and a volcano bowl cocktail.
+A question that I tend to get asked a lot takes on the form "I've got X plans with Y person and they want to go out to eat in Z neighborhood, do you have any recommendations?". I think I get asked this is because I love to eat, I worked in the hospitality industry for a long time and my husband builds and runs awesome restaurant bars for a living. The plans can vary from a simple happy hour to a multi course dinner and person can vary from family member to a rarely seen friend from high school to a professional acquaintance to a first date. The neighborhood tends to be somewhere I've maybe been to once. And I do not take very good notes. I always want to be able to provide insight because I want everyone to have the best eating and/or drinking experience possible. However, when it comes down to it, my brain is too full of other things these days to actually remember that spot in Jackson Heights with the best Vietnamese food I went with my father-in-law's friends four years ago. What I do remember is a cozy place in Bushwick with friendly staff, no-frills yet creative dishes and a volcano bowl cocktail.
 
 __[The Infatuation](https://www.theinfatuation.com)__ is a restaurant review website that I personally love. I find their reviews to be thoughtful, thorough and candid. I am slightly biased because one of the founders' favorite places was my husband's bar. They do a great job of reviewing diverse options and take into account the fact that different types of restaurants serve different purposes. However, reading multiple reviews is time consuming. Sometimes I just want to be told where to go.
 
@@ -16,6 +16,8 @@ My capstone project will be the creation of a recommender system based on the ra
 Webscraping of the Infatuation website:
 1. Build a function that finds the slugs of ~900 restaurants from New York City.
 2. Build a function that scrapes each review for each website.
+<br>
+[Raw Data](https://github.com/EdithIyer/CapstoneEdith/blob/master/infatuation_reviews.csv).
 
 # Natural Language processing
 
