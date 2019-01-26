@@ -17,7 +17,7 @@ Webscraping of the Infatuation website:
 1. Build a function that finds the slugs of ~900 restaurants from New York City.
 2. Build a function that scrapes each review for each website.
 <br>
-[Raw Data](https://github.com/EdithIyer/CapstoneEdith/blob/master/infatuation_reviews.csv).
+[Raw Data](https://github.com/EdithIyer/CapstoneEdith/blob/master/infatuation_reviews.csv)
 
 # Natural Language processing
 
