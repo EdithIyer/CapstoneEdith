@@ -1,0 +1,4 @@
+mb_tokens = {'Infatuation Project':
+'sk.eyJ1IjoiZWRpdGhpeWVyaGVybmFuZGV6IiwiYSI6ImNqcnV0a2F6ejBjY280OWw1MTE3ODBkN2kifQ.FVfsuu0EfI8S1aHByHEq8w',
+'Public Token':
+'pk.eyJ1IjoiZWRpdGhpeWVyaGVybmFuZGV6IiwiYSI6ImNqcnV0aXBkODBqbXYzeW56cmE5MWpueHoifQ.4XaPkojxCSw4S2XS5Lm_SQ'}
